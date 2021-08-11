@@ -14,7 +14,7 @@
     "test": "jest e2e-tests"
   },
   "dependencies": {
-    "css-loader": "^5.2.6",
+    "css-loader": "^5.2.7",
     "css-minimizer-webpack-plugin": "^3.0.1",
     "file-loader": "^6.2.0",
     "jquery": "^3.6.0",
