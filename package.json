@@ -20,7 +20,7 @@
     "jquery": "^3.6.0",
     "less": "^4.1.1",
     "less-loader": "^10.0.0",
-    "mini-css-extract-plugin": "^1.6.0",
+    "mini-css-extract-plugin": "^1.6.2",
     "style-loader": "^2.0.0",
     "superagent": "^5.2.2",
     "webpack": "^5.40.0",
